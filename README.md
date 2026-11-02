@@ -1,39 +1,44 @@
 # AI Tools Directory (2026)
 
-A categorized directory of AI tools for developers, creators, researchers, and teams.
+A categorized, community-maintained directory of AI tools for developers, designers, researchers, creators, and business teams.
 
-## Browse by access model
+## Browse the directory
 
-- [Free & Open-Source AI Tools](FREE-TOOLS.md)
-- [Paid & Commercial AI Tools](PAID-TOOLS.md)
-- [Contributing Guidelines](CONTRIBUTING.md)
+- [Free, Freemium & Open-Source AI Tools](FREE-TOOLS.md) — 131 entries.
+- [Paid & Commercial AI Tools](PAID-TOOLS.md) — 166 entries.
+- [Contributing Guidelines](CONTRIBUTING.md).
 
-## Browse by category
+## Categories covered
 
-1. AI chatbots and assistants
-2. Writing, content, and productivity
-3. Image generation and graphic design
-4. Video, audio, and voice
-5. Coding and software development
-6. LLMs, RAG, and AI agents
-7. Research and knowledge discovery
-8. Data science and MLOps
-9. Automation and workflow management
-10. Deployment and hosting
+- AI chatbots and assistants
+- Writing, editing, marketing, and SEO
+- Image generation and graphic design
+- Video creation and editing
+- Audio, speech, transcription, and music
+- Coding agents and software development
+- LLM APIs, RAG, and agent frameworks
+- Research, learning, and knowledge discovery
+- Data science, MLOps, evaluation, and observability
+- Automation, integration, and AI agents
+- Productivity, meetings, and presentations
+- Customer support, sales, and business
+- Deployment, cloud, and infrastructure
+- Vector databases and search
+- Security, guardrails, and AI governance
 
-## How access is classified
+## How to interpret access labels
 
-- **Open source:** Source code is available under an open-source license. Hosting, compute, or model API usage may still cost money.
-- **Free:** Basic use is available without a paid subscription.
-- **Free tier / Freemium:** Free usage is limited by quotas, features, credits, or other restrictions.
-- **Paid / Commercial:** A paid subscription, credits, or usage-based billing is central to regular use.
+- **Open source:** Source code is available under an open-source license. Compute, hosting, and model inference may still cost money.
+- **Free:** Basic use is available without payment, subject to the provider's terms.
+- **Free tier / Freemium:** Free use has limits on quotas, features, credits, or usage.
+- **Paid / Commercial:** A paid subscription, credits, API billing, or enterprise contract is a normal way to use the product.
 
-A tool may appear in a free list even if it also sells paid plans. The lists describe the availability model, not a guarantee of unlimited use.
+The free and paid files are discovery groupings, not a guarantee that a product has only one access model. A product may appear in the free list and also sell paid upgrades.
 
 ## Important
 
-Pricing, features, quotas, regional availability, licenses, and commercial-use rights change. Check each vendor's official website and terms before relying on an entry. Do not upload confidential data without reviewing privacy and retention policies.
+Availability, pricing, quotas, licenses, and regional eligibility change frequently. Check each vendor's official product, pricing, and terms pages before relying on an entry. Do not upload confidential data without reviewing privacy, security, and retention terms.
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). Contributions that improve category accuracy, pricing status, descriptions, and official links are welcome.
+See [CONTRIBUTING.md](CONTRIBUTING.md). Please submit corrections for discontinued tools, broken links, changed pricing, and new products.

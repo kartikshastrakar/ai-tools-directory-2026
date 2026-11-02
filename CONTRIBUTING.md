@@ -1,19 +1,30 @@
 # Contributing
 
-Thanks for helping improve this AI tools directory!
+Thanks for helping maintain this AI tools directory!
 
-1. Check whether the tool is already listed.
-2. Add it under the most relevant category in `FREE-TOOLS.md` or `PAID-TOOLS.md`.
-3. Use the official product website and a concise, factual description.
-4. Clearly identify whether access is open source, free, free tier, freemium, subscription, or usage-based.
-5. Link official pricing or licensing information in your pull request when possible.
+## Add or update a tool
 
-Please avoid duplicates, referral links, unsupported “100% free” claims, and stale pricing amounts. Mention model/API, hosting, compute, and hardware costs where relevant.
+1. Check that the tool is not already listed.
+2. Choose the closest functional category in `FREE-TOOLS.md` or `PAID-TOOLS.md`.
+3. Link to the official product website, not an affiliate or tracking URL.
+4. Write a short, neutral description of what the tool does.
+5. State the access model accurately: open source, free, free tier, freemium, subscription, usage-based, or enterprise.
+6. Where possible, include official pricing, licensing, or documentation references in the pull request description.
+
+## Quality guidelines
+
+- Prefer actively maintained products and working official links.
+- Do not describe limited access as unlimited or “100% free.”
+- Distinguish open-source software from hosted commercial services.
+- Mention model/API usage, hosting, compute, or hardware costs where relevant.
+- Avoid duplicate entries, referral links, unsupported rankings, and unverified prices.
+- If a product is discontinued, clearly flag it for removal rather than silently recommending it.
 
 ## Pull request checklist
 
 - [ ] Official website link works.
 - [ ] Tool is not already listed.
-- [ ] Category and description are accurate.
-- [ ] Access model is clear.
-- [ ] Pricing and licensing claims are supported by official information.
+- [ ] Functional category is appropriate.
+- [ ] Description is factual and concise.
+- [ ] Access model is clear and not overstated.
+- [ ] Pricing, license, and commercial-use claims are supported by official sources where possible.
