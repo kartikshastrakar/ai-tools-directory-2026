@@ -2,31 +2,18 @@
 
 Thanks for helping improve this AI tools directory!
 
-## How to contribute
-
 1. Check whether the tool is already listed.
-2. Choose the appropriate file:
-   - `FREE-TOOLS.md` for open-source tools or products with a usable free plan.
-   - `PAID-TOOLS.md` for products where paid plans or usage-based billing are central.
-3. Add the tool using the existing table format.
-4. Link to the official product website.
-5. Include a short, factual description and a clear access model.
-6. If possible, link to the official pricing, license, or terms page in your pull request description.
+2. Add it under the most relevant category in `FREE-TOOLS.md` or `PAID-TOOLS.md`.
+3. Use the official product website and a concise, factual description.
+4. Clearly identify whether access is open source, free, free tier, freemium, subscription, or usage-based.
+5. Link official pricing or licensing information in your pull request when possible.
 
-## Entry guidelines
-
-- Prefer active, maintained products.
-- Avoid duplicate tools and referral links.
-- Do not describe a limited free tier as “unlimited” or “100% free.”
-- Distinguish open-source software from hosted services.
-- Mention when API usage, model inference, hosting, or hardware may incur costs.
-- Do not add pricing amounts unless you can verify them from an official source.
-- Keep descriptions concise and neutral.
+Please avoid duplicates, referral links, unsupported “100% free” claims, and stale pricing amounts. Mention model/API, hosting, compute, and hardware costs where relevant.
 
 ## Pull request checklist
 
 - [ ] Official website link works.
 - [ ] Tool is not already listed.
 - [ ] Category and description are accurate.
-- [ ] Free, open-source, freemium, subscription, or usage-based status is clear.
+- [ ] Access model is clear.
 - [ ] Pricing and licensing claims are supported by official information.
