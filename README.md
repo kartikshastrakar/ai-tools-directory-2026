@@ -4,7 +4,7 @@ A categorized, community-maintained directory of AI tools for developers, design
 
 ## Browse the directory
 
-- [Free, Freemium & Open-Source AI Tools](FREE-TOOLS.md) — 131 entries.
+- [Free, Freemium & Open-Source AI Tools](FREE-TOOLS.md) — 132 entries.
 - [Paid & Commercial AI Tools](PAID-TOOLS.md) — 166 entries.
 - [Contributing Guidelines](CONTRIBUTING.md).
 
