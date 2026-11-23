@@ -160,7 +160,7 @@ A larger directory of tools with a free plan, free access, or an open-source edi
 | 107 | [IFTTT](https://ifttt.com/) | Connect apps and automate simple actions. | Free tier; paid plans available |
 | 108 | [Make](https://www.make.com/) | Visual automation across apps and services. | Free tier; operation limits |
 | 109 | [Zapier](https://zapier.com/) | Connect apps and automate repetitive workflows. | Free tier; task limits |
-| 110 | [Pipedream](https://pipedream.com/) | Developer-focused integration and workflow automation. | Free tier; usage limits | 
+| 110 | [Pipedream](https://pipedream.com/) | Developer-focused integration and workflow automation. | Free tier; usage limits |
 | 110a | [ChatSequel](https://chromewebstore.google.com/detail/cdkihfdcmchokmfbpeglffiiknmmjdcj) | Chrome extension for ChatGPT with timed continuation of responses, per-tab controls, a countdown, continuation limits, and context handoff for long conversations. | Free |
 
 ## Deployment, hosting, and infrastructure
